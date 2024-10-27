@@ -21,4 +21,8 @@ torch==2.0.1
 
 
 # Database 
-pymongo = 4.4.1
+pymongo
+pymongo[srv]
+dnspython
+ensure
+pytest

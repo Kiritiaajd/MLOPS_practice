@@ -29,7 +29,10 @@ list_of_files = [
     "py_project.toml",
     "tox.ini",
     "experiment/experiments.ipynb",
-    "src/database/mongodb_connection.py"  # New file for MongoDB connection
+    "src/database/mongodb_connection.py",
+    "src/database/mogodb_crud.py",
+    "src/database/__init__.py",
+    
 ]
 
 for filepath in list_of_files:
