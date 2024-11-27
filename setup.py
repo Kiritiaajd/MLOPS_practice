@@ -14,7 +14,7 @@ setup(
     install_requires=requirements,  # Dependencies listed in requirements.txt
     include_package_data=True,  # Includes any data files specified in MANIFEST.in
     license="MIT",
-    url="https://github.com/yourusername/mlops_practice",
+    url="https://github.com/Kiritiaajd/MLOPS_practice.git",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
